@@ -1,0 +1,18 @@
+# OpenMirror
+Using translation software to translate
+#### Introduction
+Goat Public Welfare under Yuncraft
+Operating GoMirror Open Source Mirror Station
+Build source code
+#### Environmental needs
+System: CentOS (or other Linux versions)
+Compilation: Nginx (PHP7)
+Synchronization: Rsync
+Control: Pagoda panel
+#### Installation tutorial
+1. Build according to environmental needs
+2. Copy the code in nginx.conf to the Conf file of Nginx
+3. Put. tz. PHP and. autoindex in the website root directory
+4. Setting Pagoda Timing Tasks according to the example of rsync.sh
+#### Participatory contribution
+1. Bigsk
