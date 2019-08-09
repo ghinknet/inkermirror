@@ -27,6 +27,3 @@ Yuncraft旗下Goat公益
 
 1.Bigsk
 
-```
-这里输入代码
-```
