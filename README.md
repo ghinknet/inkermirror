@@ -9,8 +9,11 @@ Yuncraft旗下Goat公益
 #### 环境需求
 
 系统：CentOS（或其他Linux版本）
+
 编译：Nginx（PHP7）
+
 同步：rsync
+
 控制：宝塔面板
 
 #### 安装教程
@@ -23,3 +26,7 @@ Yuncraft旗下Goat公益
 #### 参与贡献
 
 1.Bigsk
+
+```
+这里输入代码
+```
