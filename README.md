@@ -1,9 +1,9 @@
-# OpenMirror
+# LMirror
 
 #### 介绍
 
-Yuncraft旗下Goat公益
-运营的GoMirror开源镜像站
+Linuers Network Technology
+运营的LMirror开源镜像站
 搭建源代码
 
 #### 环境需求
