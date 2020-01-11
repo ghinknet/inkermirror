@@ -1,9 +1,9 @@
-# LMirror
+# Inker Mirror
 
 #### 介绍
 
-Linuers Network Technology
-运营的LMirror开源镜像站
+Ghink Network Studio
+运营的Inker Mirror开源镜像站
 搭建源代码
 
 #### 环境需求
